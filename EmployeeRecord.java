@@ -1,4 +1,4 @@
-package Akanksha.labassignment3;
+package akanksha.labassignment3;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.io.*;
