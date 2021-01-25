@@ -1,4 +1,4 @@
-package Akanksha.labassignment3;
+package akanksha.labassignment3;
 
 public class PaymentSystem {
 public static void main(String[] args) {
