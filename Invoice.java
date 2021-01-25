@@ -1,4 +1,4 @@
-package Akanksha.labassignment3;
+package akanksha.labassignment3;
 
 	public class Invoice implements Payable {
 	private String partNum;
